@@ -57,5 +57,6 @@
 }
 
 .selected-card {
-  border: 2px solid #007bff;
+  border: 1px solid #007bff;
+  box-shadow: 1px 1px 20px rgba(0, 123, 255, 0.5);
 }
